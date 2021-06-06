@@ -86,9 +86,9 @@ You can enter this level by stairs / elevators, but you can only exit through la
 <br />
 <br />
 
-## Level 4
+## Level 4 WIP
 
-Compact piping
+Not many people have been to this level, so we don't have much information about it. All this level contains in tightly compacted pipes, wires, and ducts that are nearly impossible to squeeze between. Some of the pipes are burning hot, and every person that has reported entering this level has also reported getting burned.
 
 <br />
 <br />
