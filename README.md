@@ -18,11 +18,6 @@ Last Updated 06/05/21
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 #### Basics
 
