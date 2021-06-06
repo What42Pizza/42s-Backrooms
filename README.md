@@ -11,6 +11,7 @@
 <br />
 
 Started 06/03/21
+
 Last Updated 06/05/21
 
 <br />
@@ -19,7 +20,7 @@ Last Updated 06/05/21
 <br />
 <br />
 
-#### Basics
+## Basics
 
 This is everything we've been able to figure out about the Backrooms. Most information comes from personal experience, but a lot of it comes from the collective agreement of people that have escaped.
 
