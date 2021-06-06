@@ -10,9 +10,11 @@
 
 <br />
 
+#### Current Revision Number: 1.1
+
 Started 06/03/21
 
-Last Updated 06/05/21
+Last Updated 06/06/21
 
 <br />
 <br />
@@ -48,13 +50,13 @@ There are only 4 confirmed levels, though there may be more that are unreported.
 
 ## Level 1
 
-This is the level you will always start in. It has yellow walls, dark carpets, and buzzing florescent lights. There are occasionally wooden chairs, tables, and / or bathrooms, but these are fairly rare (and the bathrooms never work). People have reported finding other areas and objects, but none of these reports have ever been confirmed.
+This is the level you will always start in. It has yellow walls, dark carpets, and buzzing florescent lights. There are occasionally wooden chairs, tables, and / or bathrooms, but these are fairly rare (and the bathrooms never work). People have reported finding other areas and objects, but none of these reports have ever been confirmed. As you move through this level, the wallpaper covering the walls will slowly become more and more damaged, revealing the concrete behind them, though this can take several hours.
 
 Despite the apparent size of the Backrooms, or perhaps the lack thereof, it is fairly common to run into other people. Due to this stressful environment, most confrontations lead to either extreme violence or instant friendship.
 
-This is the only level in which you can escape the Backrooms from. After searching long enough, you should be able to find some stairs or an elevator that brings you either up or down. You can obviously see which way the stairs take you, but you can never tell which way an elevator goes. Unfortunately, it seems to be 10 times more likely to find an elevator than to find stairs. Once you do use an elevator, it is deactivated and cannot be used again. With stairs, however, you can go up and down all you want, as long as they don't disappear when you turn around (with an exception described below).
+This is the only level in which you can escape the Backrooms from. After searching long enough, you should be able to find some stairs or an elevator that brings you either up or down. You can obviously see which way the stairs take you, but you can never tell which way an elevator goes. Unfortunately, it seems to be around 10 times more likely to find an elevator than to find stairs. Once you do use an elevator, it is deactivated and cannot be used again. With stairs, however, you can go up and down all you want, as long as they don't disappear when you turn around (with an exception described below). To exit the Backrooms, all you have to do is go above level 1.
 
-This level is mostly the same everywhere you go, but there are some places where the lights have gone out. People have reported that these places are especially creepy, but we're not sure if there's something making it creeper or if it's just because the lights are out.
+As mentioned in the first paragraph, the walls do change, but other than that, this level mostly stays the same. The only variance comes from bathrooms and places where the lights have gone out. People have reported that these places are especially creepy, but we're not sure if there's something specifically making it creeper or if it's just because of how it looks.
 
 <br />
 <br />
@@ -62,9 +64,13 @@ This level is mostly the same everywhere you go, but there are some places where
 
 ## Level 2
 
-If the stairs / elevators bring you down instead of up, this is where you'll end up. This level is mostly a decayed version of level 1. The carpet is soaking wet and mildewey, the walls are moldy, and the lights are unstable, going out for minutes or even hours at a time. There are bathrooms here too, but we've realized no one has ever reported going into them, so we suggest not doing so.
+If the stairs / elevators bring you down instead of up, this is where you'll end up. This level is mostly a decayed version of level 1. The carpet is soaking wet and mildewey, the walls are moldy, and the lights are unstable, going out for minutes or even hours at a time. There are bathrooms here too, but one thing that we've noticed is that no one has ever reported going into them, so we suggest not doing so.
 
 The most important thing to note here is that there are entities that live in this level. People have reported finding entities on level 1, but they're almost always on level 2 and below. These entities are almost guaranteed to be deadly, but unfortunately, we don't have much information on these entities. No one has been able to report on what these entities are or what they look like due to the fact that no one ever can ever remember what they see. The only thing they can remember is that there was something that terrified them. There have been a few reports of people remembering them and giving detailed descriptions of them, but they vary so much and are so scarce that they're almost certainly fake. There have been no reports of these entities killing anyone, but it'd be impossible to know if they did kill anyway, due to the fact the no one would be able to report on it.
+
+People have reported hearing all kinds of sounds in this level, even when they shouldn't be possible. These sounds usually consist of things like clanging pans (even though there are no (known) pans), loud flushing automated toilets (even though the toilets (in level 1) don't work), air conditioning (even though there are no ducts anywhere), etc. It is unclear whether these sounds are real or hallucinations, but the amount of reports suggest that these sounds are actually playing, though their origins might not be legitimate.
+
+Like level 1, the wallpaper here seems to change as time goes on. On this level, though, it's not only the wallpaper that changes. The ceiling panels slowly become missing / damaged, and the carpet gets more torn up. Eventually, there are no ceiling panels, the wallpaper is completely gone, the concrete walls start cracking, and only patches of the carpet remains. The reports of level 2 deterioration stop, but the cracks in the wall suggest that the deterioration itself doesn't.
 
 <br />
 <br />
@@ -86,9 +92,11 @@ You can enter this level by stairs / elevators, but you can only exit through la
 <br />
 <br />
 
-## Level 4 WIP
+## Level 4
 
-Not many people have been to this level, so we don't have much information about it. All this level contains in tightly compacted pipes, wires, and ducts that are nearly impossible to squeeze between. Some of the pipes are burning hot, and every person that has reported entering this level has also reported getting burned.
+Not many people have been to this level, so we don't have much information about it. All this level contains is tightly compacted pipes, wires, and ducts that are nearly impossible to squeeze between. Some of the pipes are burning hot, and every person that reports entering this level also reports getting burned.
+
+The only confirmed way of entering this level is through noclipping. People have reported seeing entrances to this level through holes in the ground in level 3, and you probably could enter that way, but no one's every reported doing so. People have exited through these holes, but no one's ever entered.
 
 <br />
 <br />
@@ -107,6 +115,13 @@ These are events that should be possible, but have had no reports of ever happen
 - Re-entering the Backrooms after exiting through stairs
 - Re-entering level 3 by going back down the ladder
 - Entering a level 2 bathroom
+- Level 1 wallpaper becoming completely gone after time
+	- This isn't very big, but we think it's still worth mentioning.
+- Noclipping up a level / out of the Backrooms
+- Entering level 4 without noclipping
+	- It should absolutely be possible to enter level 4 through a hole in the ground in level 3, but no one's every reported doing this. This is one of the few unreported events that we don't suggest people to not try.
+- Finding entities on level 4
+	- Not many people have been to level 4 (and come back), but those who did have never reported seeing any entities. It is unclear whether this is because there are no entities in level 4 or if it's because no one has ever survived an entity on level 4.
 - Death
 	- It may seem obvious that no one has every reported themselves dying, but the fact that no death ever has been reported is actually quite strange due to groups. It should absolutely be possible for, for instance, one person in a group to die from something in level 3, but nothing like this has ever been reported. No one knows if the reason no deaths have been recorded is because they don't happen or if it's because they don't happen to parts of groups.
 - Dying to entities
@@ -142,3 +157,26 @@ These are events that should be possible, but have had no reports of ever happen
 <br />
 
 - Some people say that the entities don't kill anyone, pointing to the fact that 1: [no bodies have ever been ever been reported] and 2: [it should be possible for only some people in a group to be killed (leaving the others to report it)]. Most people do believe these entities kill, partially because of the extreme fright they invoke, but also because both arguments have explanations. It could be that no bodies have been found because either the entities don't leaving any bodies or the changing nature of the Backrooms prevents bodies from being discovered. And for the groups arguments, it could just be that entities always kill every person they find in a group, leaving no one to report it.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Revision History
+
+<br />
+
+### R 1.1  06/06/21
+
+- We now acknowledge that the rooms do indeed change as you go through them, instead of staying the same the entire time.
+- We've had reports of people noclipping from one level to that same level, going back to wherever they started. Before this, we thought noclipping always brought you further down.
+- We've had reports of people hearing sounds that should be impossible in level 2.
+- Added level 4 description.
+
+<br />
+
+### R 1.0:  06/03/21
+
+- Initial Release
