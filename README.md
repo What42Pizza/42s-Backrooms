@@ -10,11 +10,11 @@
 
 <br />
 
-#### Current Revision Number: 1.1
+#### Current Revision Number: 1.1.1
 
 Started 06/03/21
 
-Last Updated 06/06/21
+Last Updated 06/17/21
 
 <br />
 <br />
@@ -66,7 +66,7 @@ As mentioned in the first paragraph, the walls do change, but other than that, t
 
 If the stairs / elevators bring you down instead of up, this is where you'll end up. This level is mostly a decayed version of level 1. The carpet is soaking wet and mildewey, the walls are moldy, and the lights are unstable, going out for minutes or even hours at a time. There are bathrooms here too, but one thing that we've noticed is that no one has ever reported going into them, so we suggest not doing so.
 
-The most important thing to note here is that there are entities that live in this level. People have reported finding entities on level 1, but they're almost always on level 2 and below. These entities are almost guaranteed to be deadly, but unfortunately, we don't have much information on these entities. No one has been able to report on what these entities are or what they look like due to the fact that no one ever can ever remember what they see. The only thing they can remember is that there was something that terrified them. There have been a few reports of people remembering them and giving detailed descriptions of them, but they vary so much and are so scarce that they're almost certainly fake. There have been no reports of these entities killing anyone, but it'd be impossible to know if they did kill anyway, due to the fact the no one would be able to report on it.
+The most important thing to note here is that there are entities that live in this level. People have reported finding entities on level 1, but they're almost always on level 2 and below. These entities are almost guaranteed to be deadly, but unfortunately, we don't have much information on these entities. No one has been able to report on exactly what these entities look like due to the fact that it's extremely hard to remember them. The only thing people can remember is that there was some sort of shadowy presence that terrified them. There have been a few reports of people remembering them and giving detailed descriptions of them, but they vary so much and are so scarce that they're almost certainly fake. There have been no reports of these entities killing anyone, but it'd be impossible to know if they did kill anyway, due to the fact the no one would be able to report on it.
 
 People have reported hearing all kinds of sounds in this level, even when they shouldn't be possible. These sounds usually consist of things like clanging pans (even though there are no (known) pans), loud flushing automated toilets (even though the toilets (in level 1) don't work), air conditioning (even though there are no ducts anywhere), etc. It is unclear whether these sounds are real or hallucinations, but the amount of reports suggest that these sounds are actually playing, though their origins might not be legitimate.
 
@@ -165,6 +165,12 @@ These are events that should be possible, but have had no reports of ever happen
 <br />
 
 ## Revision History
+
+<br />
+
+### R 1.1.1 06/17/21
+
+- Added shadowy description to the entities
 
 <br />
 
