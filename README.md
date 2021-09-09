@@ -10,11 +10,11 @@
 
 <br />
 
-#### Current Revision Number: 1.1.1
+#### Current Revision Number: 1.1.2
 
 Started 06/03/21
 
-Last Updated 06/17/21
+Last Updated 09/09/21
 
 <br />
 <br />
@@ -42,7 +42,7 @@ Another thing to note is that once you exit the Backrooms, you will stay in (sup
 
 # Levels
 
-There are only 4 confirmed levels, though there may be more that are unreported. These levels are numbered here from 1 to 4, but there are no actual numberings in the Backrooms. The first level is extremely eerie, but not very dangerous. The second level is extremely creepy and very dangerous. The third level is extremely scary dangerous. There isn't much information about the forth level, but it's said to be the worst (known) level.
+There are only 4 confirmed levels, though there may be more that are unreported. These levels are numbered here from 1 to 4, but there are no actual numberings in the Backrooms. The first level is extremely eerie, but not very dangerous. The second level is extremely creepy and very dangerous. The third level is extremely scary and dangerous. There isn't much information about the forth level, but it's said to be the worst (known) level.
 
 <br />
 <br />
