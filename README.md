@@ -26,11 +26,11 @@ Last Updated 06/17/21
 
 This is everything we've been able to figure out about the Backrooms. Most information comes from personal experience, but a lot of it comes from the collective agreement of people that have escaped.
 
-You enter this realm by noclipping out of reality. Your body stays in this world but your conscience is teleported to the Backrooms. Once you exit, your conscience is put back into your original body at the exact point in time that it was taken out. If and when you do leave, however, you'll just keep re-enter probably until your death. It could take days, months, or even years until you enter again, but it will happen. Also, it's fairly common to noclip while in the backrooms, and this will bring you down a random number of levels.
+You enter this realm by noclipping out of reality. Your body stays in this world but your conscience is teleported to the Backrooms. Once you exit, your conscience is put back into your original body at the exact point in time that it was taken out. However, once you've been in the backrooms, it's basically garuntees that you'll re-enter someday. Sometimes it's years before you re-enter, and sometimes it's hours. Also, it's fairly common to noclip while in the backrooms, and this will bring you down a random number of levels.
 
 No one has been able to measure the size of the Backrooms, mostly due to the fact that everything behind you is subject to change. Some say it's infinite, and others say it's only as big as what you can currently see.
 
-You cannot bring any items into the Backrooms. Every time you enter, you loose everything with you (except clothing). Some point to this as being evidence that the Backrooms aren't physically real, but they definitely are real in some sense. Any damage to your body will persist after you exit, and you can find the people you run into in this world too. In fact, most of the people that find each other in the Backrooms end up finding each other again once they leave.
+You cannot bring any items into the Backrooms. Every time you enter, the only things that come with you are your clothes. Some people point to this as evidence that the Backrooms aren't physically real, but they have to be real in some sense. Any damage to your body will persist after you exit, and any people you find in the backrooms you can also find in this world. In fact, most of the people that find each other in the Backrooms end up finding each other again once they leave.
 
 Another thing to note is that once you exit the Backrooms, you will stay in (supposedly) the real world for a second or so before having your conscience put back into your original body. This means you should be able to re-enter the Backrooms if you exited through the stairs, but no one has ever reported doing so. We strongly suggest not doing anything that's never been reported on due to the fact that people have probably tried it before and not lived to tell what happens.
 
@@ -165,6 +165,12 @@ These are events that should be possible, but have had no reports of ever happen
 <br />
 
 ## Revision History
+
+<br />
+
+### R 1.1.2 09/09/21
+
+- Slightly reworded some things in the Basics section
 
 <br />
 
