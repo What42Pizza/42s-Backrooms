@@ -1,8 +1,4 @@
-This is my version of the Backrooms with my own lore. There are currently just 2 floors, but there will be 4 once (and if) it's done.
-
-
-I highly recommend you play this at the highest graphics level if you can.
-
+This is my version of the Backrooms with my own lore. There are currently just 2 floors, but there will be 4 once (and if) it's done. I recommend playing this at the highest graphics level, but lower levels work fine too.
 
 If you've never heard of the Backrooms, here's the basic idea:
 At any point in time, you can no-clip through the wall or floor and fall straight into the Backrooms. Here, there's only yellow walls, yellow carpets, and an unending maze of rooms that you're tasked to escape from.
