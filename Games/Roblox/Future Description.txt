@@ -3,7 +3,7 @@ This is my version of the Backrooms with my own lore. There are currently just 2
 If you've never heard of the Backrooms, here's the basic idea:
 At any point in time, you can no-clip through the wall or floor and fall straight into the Backrooms. Here, there's only yellow walls, yellow carpets, and an unending maze of rooms that you're tasked to escape from.
 
-To open the settings menu, press 's' when using keyboards and 'y' when using controllers. (CONTROLLER SUPPORT IS NOT GAURANTEED, THIS PART MIGHT NEED TO BE CHANGED)
+To open the settings menu, press 'q' when using keyboards and 'y' when using controllers. (CONTROLLER SUPPORT IS NOT GAURANTEED, THIS PART MIGHT NEED TO BE CHANGED)
 
 If you like this game, you can also check out Liminal Generation:
 www.roblox.com/games/6652907259/Liminal-Generation
