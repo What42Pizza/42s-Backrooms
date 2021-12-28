@@ -2,7 +2,7 @@
 
 <br />
 
-## THIS IS A WORK IN PROGRESS. THE FOURTH FLOOR HAS NOT BEEN WRITTEN ABOUT AND MORE DETAILS ARE GOING TO BE ADDED AND / OR CHANGED.
+## THIS IS A WORK IN PROGRESS. DETAILS CAN AND WILL BE ADDED AND / OR CHANGED.
 
 <br />
 
@@ -94,7 +94,7 @@ You can enter this level by stairs / elevators, but you can only exit through la
 
 ## Level 4
 
-Not many people have been to this level, so we don't have much information about it. All this level contains is tightly compacted pipes, wires, and ducts that are nearly impossible to squeeze between. Some of the pipes are burning hot, and every person that reports entering this level also reports getting burned.
+Not many people have been to this level, so we don't have much information about it. This level is entirely filled with tightly compacted pipes, wires, and ducts that are nearly impossible to squeeze between. Some of the pipes are burning hot, and every person that reports entering this level also reports getting burned.
 
 The only confirmed way of entering this level is through noclipping. People have reported seeing entrances to this level through holes in the ground in level 3, and you probably could enter that way, but no one's every reported doing so. People have exited through these holes, but no one's ever entered.
 
