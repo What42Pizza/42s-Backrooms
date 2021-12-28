@@ -10,7 +10,7 @@
 
 <br />
 
-#### Current Revision Number: 1.1.3
+#### Current Revision Number: 1.2.0
 
 Started 06/03/21
 
@@ -122,10 +122,14 @@ These are events that should be possible, though no one has ever reported on it 
 	- It should absolutely be possible to enter level 4 through a hole in the ground in level 3, but no one's every reported doing this. This is one of the few unreported events that we don't suggest people to not try.
 - Finding entities on level 4
 	- Not many people have been to level 4 (and come back), but those who did have never reported seeing any entities. It is unclear whether this is because there are no entities in level 4 or if it's because no one has ever survived an entity on level 4.
+- Falling unconscious
+	- People have reported being dizzy, and poeple have reported almost falling unconscious, but no one has actually fallen unconscious and reported on it.
 - Death
 	- It may seem obvious that no one has every reported themselves dying, but the fact that no death ever has been reported is actually quite strange due to groups. It should absolutely be possible for, for instance, one person in a group to die from something in level 3, but nothing like this has ever been reported. No one knows if the reason no deaths have been recorded is because they don't happen or if it's because they don't happen to parts of groups.
 - Dying to entities
 	- It's pretty obvious that these entities want to kill you, but it's still worth mentioning that this has never been reported
+- Finding a body
+	- No one has every found a dead body. This doesn't necessarily mean that there are no deaths, since the layout of the backrooms constantly changes.
 
 <br />
 <br />
@@ -137,14 +141,14 @@ These are events that should be possible, though no one has ever reported on it 
 
 <br />
 
-- Starvation / Dehydration
+- Starvation / dehydration
 	- There aren't any resources in the Backrooms, so you'll have to get out before you die of hunger / thirst.
-- Entities
-	- Again, there have been no reports of anyone dying to these entities, but they're still considered extremely dangerous.
 - Overheating
 	- The rooms in level 3 can get hot enough to kill you, and people have undoubtedly died from this.
-- Stuck / Flooded by Tar
+- Stuck in / flooded by tar
 	- Some level 3 rooms are flooded with tar, and if you're not careful, this tar can engulf you once you open the door to it.
+- Entities
+	- Again, there have been no reports of anyone dying to these entities, but they're still considered extremely dangerous.
 
 <br />
 <br />
@@ -168,10 +172,12 @@ These are events that should be possible, though no one has ever reported on it 
 
 <br />
 
-### R 1.1.3 12/27/21
+### R 1.2.0 12/27/21
 
 - Almond milk has been reported flooding level 3 rooms
 - Bottles of almond milk have been reported in level 1
+- Added falling unconscious to the list of unreported events
+- Added finding bodies to the list of unreported events
 - Reworded some stuff
 
 <br />
