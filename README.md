@@ -10,11 +10,11 @@
 
 <br />
 
-#### Current Revision Number: 1.1.2
+#### Current Revision Number: 1.1.3
 
 Started 06/03/21
 
-Last Updated 09/09/21
+Last Updated 12/27/21
 
 <br />
 <br />
@@ -50,7 +50,7 @@ There are only 4 confirmed levels, but there may be more that are unreported. Th
 
 ## Level 1
 
-This is the level you will always start in. It has yellow walls, dark carpets, and buzzing florescent lights. There are occasionally wooden chairs, tables, and / or bathrooms, but these are fairly rare (and the bathrooms never work). People have reported finding other areas and objects, but none of these reports have ever been confirmed. As you move through this level, the wallpaper covering the walls will slowly become more and more damaged, revealing the concrete behind them, though this can take several hours.
+This is the level you will always start in. It has yellow walls, dark carpets, and buzzing florescent lights. There are occasionally wooden chairs, tables, and / or bathrooms, but these are fairly rare (and the bathrooms never work). People have reported finding other areas and objects, but none of these reports have ever been confirmed. The only objects that have been consistantly reported on is random bottles of almond milk. As you move through this level, the wallpaper covering the walls will slowly become more and more damaged, revealing the concrete behind them, though this can take several hours.
 
 Despite the apparent size of the Backrooms, or perhaps the lack thereof, it is fairly common to run into other people. Due to this stressful environment, most confrontations lead to either extreme violence or instant friendship.
 
@@ -80,11 +80,11 @@ Like level 1, the wallpaper here seems to change as time goes on. On this level,
 
 This level is the most varied within itself. Most of it is composed of long corridors filled with pipes and ducts, but there are also rooms full of machinery (from here on out I'll refer to both rooms and corridors as rooms). There aren't many lights and some of the rooms are partially flooded, which makes it very hard to travel through this level. To make it worse, this level is also full of entities, which is probably why there aren't many reports of people entering this level.
 
-Each corridor and room is separated by strong sealing metal doors like those in ships. Some of these corridors and rooms get extremely hot, which probably due to the liquids in the pipes. This means you have to be careful every time you reach a door, as some can be burning hot. We suggest quickly touching each door's handle with the back of your hand before opening it to test its temperature. If a room starts warming up with you inside it, you must leave as soon as you possibly can.
+Each room is separated by strong sealing metal doors like those in ships. Some of these rooms get extremely hot, which probably due to the liquids in the pipes. This means you have to be careful every time you reach a door, as some can be burning hot. We suggest quickly touching each door's handle with the back of your hand before opening it to test its temperature. If a room starts warming up with you inside it, you must leave as soon as you possibly can.
 
-Unfortunately, there's not really any way to know whether a room is flooded until it's too late. Every door you encounter will be open inwards, and opening a door to a flooded room will force the door open. Flooded rooms have been reported to be filled with either water, sewage, or tar. If it's flooded with water, that can be gross but you'll be fine. If it's flooded with sewage, then you'll be exiting covered in it. Because of this possibility, we strongly suggest trying to climb onto whatever pipes / machinery you can before opening doors. If a room is flooded with tar, you need to be careful since the tar moves surprisingly fast.
+Unfortunately, there's not really any way to know whether a room is flooded until it's too late. Every door you encounter will be open inwards, and opening a door to a flooded room will force the door open. Flooded rooms have been reported to be filled with either water, sewage, tar, or almond milk. If it's flooded with water, that can be gross but you'll be fine. If it's flooded with sewage, then you'll be exiting covered in it. Because of this possibility, we strongly suggest trying to climb onto whatever pipes / machinery you can before opening doors. If a room is flooded with tar, you need to be careful since the tar moves surprisingly fast.
 
-We can't exactly tell what's in the pipes / ducts, but we can guess the pipes contain the water, sewage, and tar that fills the flooded corridors. Some have reported becoming nauseous in these rooms, which may be because of what leak from the vents.
+We can't technically tell what's in the pipes / ducts, but we can guess that the pipes contain water, sewage, tar, and almond milk, since that's what fills the flooded rooms. Some have reported becoming nauseous in these rooms, which may be caused by whatever leak from the vents.
 
 You can enter this level by stairs / elevators, but you can only exit through ladders (or the stairs you entered from). As soon as you see ladders, you need to run to them and go up them as soon as possible to minimize the chance of encounters with entities or the buildup of heat. At the top of the ladder, you can open a service hatch that leads to level 2. No one has reported re-entering level 3 from these ladders, but that's probably due to no one wanting to re-enter level 3 in general and not due to anything happening to the people that do try to do so. 
 
@@ -165,6 +165,14 @@ These are events that should be possible, though no one has ever reported on it 
 <br />
 
 ## Revision History
+
+<br />
+
+### R 1.1.3 12/27/21
+
+- Almond milk has been reported flooding level 3 rooms
+- Bottles of almond milk have been reported in level 1
+- Reworded some stuff
 
 <br />
 
