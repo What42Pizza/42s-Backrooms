@@ -2,11 +2,7 @@
 
 <br />
 
-<<<<<<< HEAD
-## THIS IS A WORK IN PROGRESS. THE FOURTH FLOOR HAS NOT BEEN WRITTEN ABOUT MUCH AND MORE DETAILS ARE GOING TO BE ADDED AND / OR CHANGED.
-=======
 ## THIS IS A WORK IN PROGRESS. DETAILS CAN AND WILL BE ADDED AND / OR CHANGED.
->>>>>>> c46c4989277405e12273281bb08a2d0274f864bb
 
 <br />
 
@@ -18,11 +14,7 @@
 
 Started 06/03/21
 
-<<<<<<< HEAD
-Last Updated 10/18/21
-=======
 Last Updated 12/27/21
->>>>>>> c46c4989277405e12273281bb08a2d0274f864bb
 
 <br />
 <br />
@@ -58,7 +50,7 @@ There are only 4 confirmed levels, but there may be more that are unreported. Th
 
 ## Level 1
 
-This is the level you will always start in. It has yellow walls, dark carpets, and buzzing florescent lights. There are occasionally wooden chairs, tables, and / or bathrooms, but these are fairly rare (and the bathrooms never work). People have reported finding other areas and objects, but none of these reports have ever been confirmed. The only objects that have been consistantly reported on is random bottles of almond milk. As you move through this level, the wallpaper covering the walls will slowly become more and more damaged, revealing the concrete behind them, though this can take several hours.
+This is the level you will always start in. It has yellow walls, dark carpets, and buzzing florescent lights. There are occasionally wooden chairs, tables, and / or bathrooms, but these are fairly rare (and the bathrooms never work). People have reported finding other areas and objects, but none of these reports have ever been confirmed. The only objects that have been consistently reported on is random bottles of almond milk. As you move through this level, the wallpaper covering the walls will slowly become more and more damaged, revealing the concrete behind them, though this can take several hours.
 
 Despite the apparent size of the Backrooms, or perhaps the lack thereof, it is fairly common to run into other people. Due to this stressful environment, most confrontations lead to either extreme violence or instant friendship.
 
@@ -131,7 +123,7 @@ These are events that should be possible, though no one has ever reported on it 
 - Finding entities on level 4
 	- Not many people have been to level 4 (and come back), but those who did have never reported seeing any entities. It is unclear whether this is because there are no entities in level 4 or if it's because no one has ever survived an entity on level 4.
 - Falling unconscious
-	- People have reported being dizzy, and poeple have reported almost falling unconscious, but no one has actually fallen unconscious and reported on it.
+	- People have reported being dizzy, and people have reported almost falling unconscious, but no one has actually fallen unconscious and reported on it.
 - Death
 	- It may seem obvious that no one has every reported themselves dying, but the fact that no death ever has been reported is actually quite strange due to groups. It should absolutely be possible for, for instance, one person in a group to die from something in level 3, but nothing like this has ever been reported. No one knows if the reason no deaths have been recorded is because they don't happen or if it's because they don't happen to parts of groups.
 - Dying to entities
