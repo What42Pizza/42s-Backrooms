@@ -62,13 +62,13 @@ As mentioned in the first paragraph, the walls do sometimes change, but other th
 
 ## Level 2
 
-If the stairs / elevators bring you down instead of up, this is where you'll end up. This level is mostly a decayed version of level 1, but other than that, everything is exactly the same as level 1. The only differences are that the carpet is soaking wet and mildewey, the walls are moldy, and the lights are unstable, going out for minutes or even hours at a time. There are special rooms here too, but we have noticed that no one has ever reported going into them, so we suggest not doing so.
+If the stairs / elevators bring you down instead of up, this is where you'll end up. This level seems to be a decayed exact replica of the first level, down to the placement of stray objects. The only structural differences are that the carpet is soaking wet and mildewey, the walls are moldy, and the lights are unstable, going out for minutes or even hours at a time. There are special rooms here too, but we have noticed that no one has ever reported going into them, so we suggest not doing so.
 
-The most important thing to note here is that there are entities that live in this level. People have reported finding entities on level 1, but they're almost always on level 2 and below. These entities are almost guaranteed to be deadly, but unfortunately, we don't have much information on these entities. No one has been able to report on exactly what these entities look like due to the fact that it's extremely hard to remember them. The only thing people can remember is that there was some sort of shadowy presence that terrified them. There have been a few reports of people remembering them and giving detailed descriptions of them, but they vary so much and are so scarce that they're almost certainly fake. There have been no reports of these entities killing anyone, but it'd be impossible to know if they did kill anyway, due to the fact the no one would be able to report on it.
+The most important thing to note here is that there are entities that live in this level. There have been reports of entities on level 1, but they're almost always in level 2 and below. These entities appear extremely deadly, but unfortunately, you forget almost everything about them once they're gone. The only thing that people can remember is that there was something that terrified them. There have been a few reports of people remembering them and giving detailed descriptions of them, but they vary so much and are so scarce that they're almost certainly fake. Even though no one has reported these entities killing anyone, it is still advised that you do not engage with them.
 
-People have reported hearing all kinds of sounds in this level, even when they shouldn't be possible. These sounds usually consist of things like clanging pans (even though there are no (known) pans), loud flushing automated toilets (even though the toilets (in level 1) don't work), air conditioning (even though there are no ducts anywhere), etc. It is unclear whether these sounds are real or hallucinations, but the amount of reports suggest that these sounds are actually playing, though their origins might not be legitimate.
+People have reported hearing all kinds of sounds in this level, even though some sounds shouldn't be possible. They usually consist of things like clanging pans (even though there are no (known) pans), loud flushing automated toilets (even though the toilets (in level 1) don't work), air conditioning (even though there are no ducts anywhere), etc. It is unclear whether these sounds are real or hallucinations, but the amount and consistancy of reports suggests that these sounds must be real in some sense, even if their origins might not be legitimate.
 
-Like level 1, the wallpaper here seems to change as time goes on. On this level, though, it's not only the wallpaper that changes. The ceiling panels slowly become missing / damaged, and the carpet gets more torn up. Eventually, there are no ceiling panels, the wallpaper is completely gone, the concrete walls start cracking, and only patches of the carpet remains. The reports of level 2 deterioration stop, but the cracks in the wall suggest that the deterioration itself doesn't.
+Like level 1, the wallpaper here seems to change as time goes on. In addition to that, the ceiling panels and carpet also become missing / damaged the further you go out. Eventually, there are no ceiling panels, the wallpaper is completely gone, the concrete walls start cracking, and only patches of the carpet remains. Even though the reports of level 2 deterioration stop, but there's no reports of the deterioration stopping.
 
 <br />
 <br />
@@ -118,8 +118,7 @@ These are events that should be possible, though no one has ever reported on it 
 - Re-entering the Backrooms after exiting through stairs
 - Re-entering level 3 by going back down the ladder
 - Entering a special level 2 room
-- Level 1 wallpaper becoming completely gone after time
-	- This isn't very big, but we think it's still worth mentioning.
+- Level 1 wallpaper completely disappearing gone after time
 - Noclipping up a level / out of the Backrooms
 - Entering level 4 without noclipping
 	- It should absolutely be possible to enter level 4 through a hole in the ground in level 3, but no one's every reported doing this. This is one of the few unreported events that we don't suggest people to not try.
@@ -158,8 +157,8 @@ These are events that should be possible, though no one has ever reported on it 
 
 <br />
 
-- Chairs and Tables
-- Almond Milk
+- Chairs, Tables, and Desks
+- Almond Milk Bottles
 
 <br />
 <br />
@@ -172,13 +171,13 @@ These are events that should be possible, though no one has ever reported on it 
 <br />
 
 - Starvation / dehydration
-	- There aren't any resources in the Backrooms, so you'll have to get out before you die of hunger / thirst.
+	- There aren't any resources in the Backrooms, so you'll have to get out before you die of hunger / thirst
 - Overheating
-	- The rooms in level 3 can get hot enough to kill you, and people have undoubtedly died from this.
-- Stuck in / flooded by tar
-	- Some level 3 rooms are flooded with tar, and if you're not careful, this tar can engulf you once you open the door to it.
+	- The rooms in level 3 can get hot enough to kill you, and people have undoubtedly died from this
+- Flooded in level 3
+	- Some level 3 rooms are completely flooded, and if you're not careful, these liquids (especially tar) can engulf you once you open the door to it
 - Entities
-	- Again, there have been no reports of anyone dying to these entities, but they're still considered extremely dangerous.
+	- Again, there have been no reports of anyone dying to these entities, but they're still considered extremely dangerous
 
 <br />
 <br />
@@ -190,7 +189,10 @@ These are events that should be possible, though no one has ever reported on it 
 
 <br />
 
-- Some people say that the entities don't kill anyone, pointing to the fact that 1: [no bodies have ever been ever been reported] and 2: [it should be possible for only some people in a group to be killed (leaving the others to report it)]. Most people do believe these entities kill, partially because of the extreme fright they invoke, but also because both arguments have explanations. It could be that no bodies have been found because either the entities don't leaving any bodies or the changing nature of the Backrooms prevents bodies from being discovered. And for the groups arguments, it could just be that entities always kill every person they find in a group, leaving no one to report it.
+- Some people say that the entities don't kill anyone, pointing to the fact that 1: [no bodies have ever been ever been reported] and 2: [it should be possible for only some people in a group to be killed (leaving the others to report it)]. Many people do believe these entities kill, partially because of the extreme fear they invoke, but also because both arguments against them killing have counter-arguments. To stay as neutral as possible, we'll just give some cases for what might be happening:
+	- 1: The entities do kill, and they never leave behind bodies or witnesses
+	- 2: The entities do kill, the never leave behind witnesses, they do leave behind bodies, and no one can find these bodies because of the changing nature of the backrooms
+	- 3: The entities do not kill
 
 <br />
 <br />
@@ -205,6 +207,7 @@ These are events that should be possible, though no one has ever reported on it 
 ### R 1.3.1 01/14/22
 
 - Added list of stray level 1 and 2 objects
+- Reworded many of the details (especially in level 2 and the notes)
 
 <br />
 
