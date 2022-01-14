@@ -10,11 +10,11 @@
 
 <br />
 
-#### Current Revision Number: 1.2.1
+#### Current Revision Number: 1.3.1
 
 Started 06/03/21
 
-Last Updated 01/13/22
+Last Updated 01/14/22
 
 <br />
 <br />
@@ -54,7 +54,7 @@ This is the level you will always start in. It has yellow walls, dark carpets, a
 
 This is the only level in which you can escape the Backrooms from. After searching long enough, you should be able to find stairs or an elevator that brings you either up or down. You can obviously see which way the stairs take you, but you can never tell which way an elevator goes. Unfortunately, it seems to be around 10 times more likely to find an elevator than to find stairs, and whether an elevator goes up or down is a 50/50 chance. Once you use an elevator, it is deactivated and cannot be used again. With stairs, however, you can go up and down all you want, as long as they don't disappear when you turn around (with an exception described below). To exit the Backrooms, all you have to do is go above level 1.
 
-As mentioned in the first paragraph, the walls do change, but other than that, this level mostly stays the same. The only variance comes from special rooms, stray objects, and rooms where the lights have gone out. People have reported that these places are especially creepy, but we're not sure if there's something specifically making it creeper or if it's just because of how it looks.
+As mentioned in the first paragraph, the walls do sometimes change, but other than that, this level mostly stays the same. The only variance comes from special rooms, stray objects, and rooms where the lights have gone out. People have reported that these places are especially creepy, but we're not sure if there's something specifically making it creeper or if it's just because of how it looks.
 
 <br />
 <br />
@@ -154,6 +154,19 @@ These are events that should be possible, though no one has ever reported on it 
 <br />
 <br />
 
+## Stray Level 1 and 2 Objects
+
+<br />
+
+- Chairs and Tables
+- Almond Milk
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Possible Deaths
 
 <br />
@@ -189,10 +202,17 @@ These are events that should be possible, though no one has ever reported on it 
 
 <br />
 
+### R 1.3.1 01/14/22
+
+- Added list of stray level 1 and 2 objects
+
+<br />
+
 ### R 1.3.0 01/13/22
 
 - We now acknoledge that meeting / conference rooms and storage / cleaning rooms do appear in levels 1 and 2
 - We now acknoledge that many objects (such as chairs and almond milk bottles) do appear in levels 1, 2, and 3
+- Added list of special level 1 and 2 rooms
 - Added taking photos and videos to the list of unreported events
 - Reworded many of the details (especially in the basics and level 1)
 
