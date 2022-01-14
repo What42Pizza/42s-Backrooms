@@ -10,11 +10,11 @@
 
 <br />
 
-#### Current Revision Number: 1.2.0
+#### Current Revision Number: 1.2.1
 
 Started 06/03/21
 
-Last Updated 12/27/21
+Last Updated 1/13/22
 
 <br />
 <br />
@@ -112,6 +112,8 @@ These are events that should be possible, though no one has ever reported on it 
 
 <br />
 
+- Taking photos / videos
+	- You can't bring items into the Backrooms, so taking photos and/or videos just isn't possible
 - Re-entering the Backrooms after exiting through stairs
 - Re-entering level 3 by going back down the ladder
 - Entering a level 2 bathroom
@@ -169,6 +171,12 @@ These are events that should be possible, though no one has ever reported on it 
 <br />
 
 ## Revision History
+
+<br />
+
+### R 1.2.1 1/13/22
+
+- Added taking photos and videos to the list of unreported events
 
 <br />
 
