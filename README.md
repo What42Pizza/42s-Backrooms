@@ -14,7 +14,7 @@
 
 Started 06/03/21
 
-Last Updated 1/13/22
+Last Updated 01/13/22
 
 <br />
 <br />
@@ -24,13 +24,13 @@ Last Updated 1/13/22
 
 ## Basics
 
-This is everything we've been able to figure out about the Backrooms. Most information comes from my own personal experience, but a lot of it comes from the collective agreement of people that have escaped.
+This is everything we've been able to figure out about the Backrooms. Most information comes from my own personal experience, but a lot of it comes from the collective agreement of the people that have escaped. There are a lot of details that poeple disagree on, but everyone agrees that as soon as you enter the Backrooms, you know its name.
 
-You enter this realm by noclipping out of reality. Your body stays in this world but your conscience is teleported to the Backrooms. Once you exit, your conscience is put back into your original body at the exact point in time that it was taken out. However, once you've been in the backrooms, it's basically guaranteed that you'll re-enter someday. Sometimes it's years before you re-enter, and sometimes it's hours. Also, it's fairly common to noclip while in the backrooms, and this will bring you down a random number of levels.
+You enter this realm by "noclipping" out of reality. Your body stays in this world but your conscience is moved to the Backrooms. Once you exit, your conscience is put back into your original body at the exact point in time that it was taken out. However, once you've been in the backrooms, it's basically guaranteed that you'll re-enter someday. Sometimes it's years before you re-enter, and sometimes it's hours. Also, it's fairly common to noclip while in the backrooms, in which case you'll fall a random number of levels.
 
-No one has been able to measure the size of the Backrooms, mostly due to the fact that everything behind you is subject to change. Some say it's infinite, and others say it's only as big as what you can currently see.
+No one has been able to measure the size of the Backrooms, and that's mostly due to the fact that everything behind you is subject to change. Some say it's infinite, and others say it's only as big as what you are currently looking at. Despite the apparent size of the Backrooms, or perhaps the lack thereof, it is fairly common to run into other people. Due to this stressful environment, most confrontations lead to either extreme violence or instant friendship.
 
-You cannot bring any items into the Backrooms. Every time you enter, the only things that come with you are your clothes. Some people point to this as evidence that the Backrooms aren't physically real, but they have to be real in some sense. Any damage to your body will persist after you exit, and any people you find in the backrooms you can also find in this world. In fact, most of the people that find each other in the Backrooms end up finding each other again once they leave.
+You cannot bring any items into the Backrooms. Every time you enter, the only things that come with you are your clothes. Some people point to this as evidence that the Backrooms aren't physically real, but they have to be real in some sense. Any damage to your body will persist after you exit, and any people you find in the backrooms can also be found in this world. In fact, most of the people that find each other in the Backrooms do end up finding each other again once they leave.
 
 Another thing to note is that once you exit the Backrooms, you will stay in (supposedly) the real world for a second or so before your conscience is put back into your original body. This means you should be able to re-enter the Backrooms if you exited through the stairs, but no one has ever reported doing so. We strongly suggest not doing anything that's never been reported on due to the fact that people probably have tried it before and not lived to tell what happens.
 
@@ -50,13 +50,11 @@ There are only 4 confirmed levels, but there may be more that are unreported. Th
 
 ## Level 1
 
-This is the level you will always start in. It has yellow walls, dark carpets, and buzzing florescent lights. There are occasionally wooden chairs, tables, and / or bathrooms, but these are fairly rare (and the bathrooms never work). People have reported finding other areas and objects, but none of these reports have ever been confirmed. The only objects that have been consistently reported on is random bottles of almond milk. As you move through this level, the wallpaper covering the walls will slowly become more and more damaged, revealing the concrete behind them, though this can take several hours.
+This is the level you will always start in. It has yellow walls, dark carpets, and buzzing florescent lights. There are occasionally stray objects and special rooms, but these are fairly rare (and the bathrooms never work). The reported special rooms and stray objects are listed below, under Unreported Events. As you move through this level, the wallpaper covering the walls will slowly become more and more damaged, revealing the concrete behind them, though this can take several hours.
 
-Despite the apparent size of the Backrooms, or perhaps the lack thereof, it is fairly common to run into other people. Due to this stressful environment, most confrontations lead to either extreme violence or instant friendship.
+This is the only level in which you can escape the Backrooms from. After searching long enough, you should be able to find stairs or an elevator that brings you either up or down. You can obviously see which way the stairs take you, but you can never tell which way an elevator goes. Unfortunately, it seems to be around 10 times more likely to find an elevator than to find stairs, and whether an elevator goes up or down is a 50/50 chance. Once you use an elevator, it is deactivated and cannot be used again. With stairs, however, you can go up and down all you want, as long as they don't disappear when you turn around (with an exception described below). To exit the Backrooms, all you have to do is go above level 1.
 
-This is the only level in which you can escape the Backrooms from. After searching long enough, you should be able to find some stairs or an elevator that brings you either up or down. You can obviously see which way the stairs take you, but you can never tell which way an elevator goes. Unfortunately, it seems to be around 10 times more likely to find an elevator than to find stairs. Once you do use an elevator, it is deactivated and cannot be used again. With stairs, however, you can go up and down all you want, as long as they don't disappear when you turn around (with an exception described below). To exit the Backrooms, all you have to do is go above level 1.
-
-As mentioned in the first paragraph, the walls do change, but other than that, this level mostly stays the same. The only variance comes from bathrooms and places where the lights have gone out. People have reported that these places are especially creepy, but we're not sure if there's something specifically making it creeper or if it's just because of how it looks.
+As mentioned in the first paragraph, the walls do change, but other than that, this level mostly stays the same. The only variance comes from special rooms, stray objects, and rooms where the lights have gone out. People have reported that these places are especially creepy, but we're not sure if there's something specifically making it creeper or if it's just because of how it looks.
 
 <br />
 <br />
@@ -64,7 +62,7 @@ As mentioned in the first paragraph, the walls do change, but other than that, t
 
 ## Level 2
 
-If the stairs / elevators bring you down instead of up, this is where you'll end up. This level is mostly a decayed version of level 1. The carpet is soaking wet and mildewey, the walls are moldy, and the lights are unstable, going out for minutes or even hours at a time. There are bathrooms here too, but one thing that we've noticed is that no one has ever reported going into them, so we suggest not doing so.
+If the stairs / elevators bring you down instead of up, this is where you'll end up. This level is mostly a decayed version of level 1, but other than that, everything is exactly the same as level 1. The only differences are that the carpet is soaking wet and mildewey, the walls are moldy, and the lights are unstable, going out for minutes or even hours at a time. There are special rooms here too, but we have noticed that no one has ever reported going into them, so we suggest not doing so.
 
 The most important thing to note here is that there are entities that live in this level. People have reported finding entities on level 1, but they're almost always on level 2 and below. These entities are almost guaranteed to be deadly, but unfortunately, we don't have much information on these entities. No one has been able to report on exactly what these entities look like due to the fact that it's extremely hard to remember them. The only thing people can remember is that there was some sort of shadowy presence that terrified them. There have been a few reports of people remembering them and giving detailed descriptions of them, but they vary so much and are so scarce that they're almost certainly fake. There have been no reports of these entities killing anyone, but it'd be impossible to know if they did kill anyway, due to the fact the no one would be able to report on it.
 
@@ -103,6 +101,9 @@ The only confirmed way of entering this level is through noclipping. People have
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 ## Unreported events
 
@@ -116,7 +117,7 @@ These are events that should be possible, though no one has ever reported on it 
 	- You can't bring items into the Backrooms, so taking photos and/or videos just isn't possible
 - Re-entering the Backrooms after exiting through stairs
 - Re-entering level 3 by going back down the ladder
-- Entering a level 2 bathroom
+- Entering a special level 2 room
 - Level 1 wallpaper becoming completely gone after time
 	- This isn't very big, but we think it's still worth mentioning.
 - Noclipping up a level / out of the Backrooms
@@ -132,6 +133,20 @@ These are events that should be possible, though no one has ever reported on it 
 	- It's pretty obvious that these entities want to kill you, but it's still worth mentioning that this has never been reported
 - Finding a body
 	- No one has every found a dead body. This doesn't necessarily mean that there are no deaths, since the layout of the backrooms constantly changes.
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Special Level 1 and 2 Rooms
+
+<br />
+
+- Bathrooms
+- Meeting / Conference Rooms
+- Storage / Cleaning Rooms
 
 <br />
 <br />
@@ -174,9 +189,12 @@ These are events that should be possible, though no one has ever reported on it 
 
 <br />
 
-### R 1.2.1 1/13/22
+### R 1.3.0 01/13/22
 
+- We now acknoledge that meeting / conference rooms and storage / cleaning rooms do appear in levels 1 and 2
+- We now acknoledge that many objects (such as chairs and almond milk bottles) do appear in levels 1, 2, and 3
 - Added taking photos and videos to the list of unreported events
+- Reworded many of the details (especially in the basics and level 1)
 
 <br />
 
@@ -186,13 +204,13 @@ These are events that should be possible, though no one has ever reported on it 
 - Bottles of almond milk have been reported in level 1
 - Added falling unconscious to the list of unreported events
 - Added finding bodies to the list of unreported events
-- Reworded some stuff
+- Reworded many of the details
 
 <br />
 
 ### R 1.1.2 09/09/21
 
-- Slightly reworded some things in the Basics section
+- Slightly reworded many of the details in the Basics section
 
 <br />
 
@@ -204,11 +222,11 @@ These are events that should be possible, though no one has ever reported on it 
 
 ### R 1.1  06/06/21
 
-- We now acknowledge that the rooms do indeed change as you go through them, instead of staying the same the entire time.
-- We've had reports of people noclipping from one level to that same level, going back to wherever they started. Before this, we thought noclipping always brought you further down.
-- We've had reports of people hearing sounds that should be impossible in level 2.
-- Added level 4 description.
-- Added revisions and Revision History.
+- We now acknowledge that the rooms do indeed change as you go through them, instead of staying the same the entire time
+- We've had reports of people noclipping from one level to that same level, going back to wherever they started. Before this, we thought noclipping always brought you further down
+- We've had reports of people hearing sounds that should be impossible in level 2
+- Added level 4 description
+- Added revisions and Revision History
 
 <br />
 
