@@ -10,11 +10,11 @@
 
 <br />
 
-#### Current Revision Number: 1.3.1
+#### Current Revision Number: 1.3.2
 
 Started 06/03/21
 
-Last Updated 01/14/22
+Last Updated 01/26/22
 
 <br />
 <br />
@@ -24,7 +24,7 @@ Last Updated 01/14/22
 
 ## Basics
 
-This is everything we've been able to figure out about the Backrooms. Most information comes from my own personal experience, but a lot of it comes from the collective agreement of the people that have escaped. There are a lot of details that poeple disagree on, but everyone agrees that as soon as you enter the Backrooms, you know its name.
+This is everything we've been able to figure out about the Backrooms. Most information comes from my own personal experience, but a lot of it comes from the collective agreement of the people that have escaped. There are a lot of details that people disagree on, but everyone agrees that as soon as you enter the Backrooms, you know its name.
 
 You enter this realm by "noclipping" out of reality. Your body stays in this world but your conscience is moved to the Backrooms. Once you exit, your conscience is put back into your original body at the exact point in time that it was taken out. However, once you've been in the backrooms, it's basically guaranteed that you'll re-enter someday. Sometimes it's years before you re-enter, and sometimes it's hours. Also, it's fairly common to noclip while in the backrooms, in which case you'll fall a random number of levels.
 
@@ -66,7 +66,7 @@ If the stairs / elevators bring you down instead of up, this is where you'll end
 
 The most important thing to note here is that there are entities that live in this level. There have been reports of entities on level 1, but they're almost always in level 2 and below. These entities appear extremely deadly, but unfortunately, you forget almost everything about them once they're gone. The only thing that people can remember is that there was something that terrified them. There have been a few reports of people remembering them and giving detailed descriptions of them, but they vary so much and are so scarce that they're almost certainly fake. Even though no one has reported these entities killing anyone, it is still advised that you do not engage with them.
 
-People have reported hearing all kinds of sounds in this level, even though some sounds shouldn't be possible. They usually consist of things like clanging pans (even though there are no (known) pans), loud flushing automated toilets (even though the toilets (in level 1) don't work), air conditioning (even though there are no ducts anywhere), etc. It is unclear whether these sounds are real or hallucinations, but the amount and consistancy of reports suggests that these sounds must be real in some sense, even if their origins might not be legitimate.
+People have reported hearing all kinds of sounds in this level, even though some sounds shouldn't be possible. They usually consist of things like clanging pans (even though there are no (known) pans), loud flushing automated toilets (even though the toilets (in level 1) don't work), air conditioning (even though there are no ducts anywhere), etc. It is unclear whether these sounds are real or hallucinations, but the amount and consistency of reports suggests that these sounds must be real in some sense, even if their origins might not be legitimate.
 
 Like level 1, the wallpaper here seems to change as time goes on. In addition to that, the ceiling panels and carpet also become missing / damaged the further you go out. Eventually, there are no ceiling panels, the wallpaper is completely gone, the concrete walls start cracking, and only patches of the carpet remains. Even though the reports of level 2 deterioration stop, but there's no reports of the deterioration stopping.
 
@@ -76,15 +76,15 @@ Like level 1, the wallpaper here seems to change as time goes on. In addition to
 
 ## Level 3
 
-This level is the most varied within itself. Most of it is composed of long corridors filled with pipes and ducts, but there are also rooms full of machinery (from here on out I'll refer to both rooms and corridors as rooms). There aren't many lights and some of the rooms are partially flooded, which makes it very hard to travel through this level. To make it worse, this level is also full of entities, which is probably why there aren't many reports of people entering this level.
+This level is the most varied within itself. It's mostly filled with long corridors, but there are also some rooms full of machinery. The corridors are filled with pipes and ducts, there aren't many lights, entities are prevalent, and some of the rooms and corridors are partially or fully flooded (from here on out I'll refer to both rooms and corridors as rooms). Rooms are separated by strong sealing metal doors, like those found in ships. This level is considered the most dangerous of the four, but traveling through it is still slightly easier than the fourth level.
 
-Each room is separated by strong sealing metal doors like those in ships. Some of these rooms get extremely hot, which probably due to the liquids in the pipes. This means you have to be careful every time you reach a door, as some can be burning hot. We suggest quickly touching each door's handle with the back of your hand before opening it to test its temperature. If a room starts warming up with you inside it, you must leave as soon as you possibly can.
+Some of the pipes can get extremely hot, which can in turn make the room it's in very hot. This also makes some of the doors extremely hot, so we suggest quickly touching each door's handle with the back of your hand before opening it to test its temperature. If a room starts warming up with you inside it, you must leave as soon as you possibly can.
 
-Unfortunately, there's not really any way to know whether a room is flooded until it's too late. Every door you encounter will be open inwards, and opening a door to a flooded room will force the door open. Flooded rooms have been reported to be filled with either water, sewage, tar, or almond milk. If it's flooded with water, that can be gross but you'll be fine. If it's flooded with sewage, then you'll be exiting covered in it. Because of this possibility, we strongly suggest trying to climb onto whatever pipes / machinery you can before opening doors. If a room is flooded with tar, you need to be careful since the tar moves surprisingly fast.
+Unfortunately, there's not any way to know whether a room is flooded until it's too late. Every door you encounter will open inwards, which allows any liquids on the other side to force the door open. Flooded rooms have been reported to be filled with either water, sewage, tar, or almond milk. To avoid getting any of these liquids on yourself, we strongly suggest trying to climb onto whatever pipes / machinery you can before opening doors. If a room is flooded with tar, doing this might even save your life.
 
-We can't technically tell what's in the pipes / ducts, but we can guess that the pipes contain water, sewage, tar, and almond milk, since that's what fills the flooded rooms. Some have reported becoming nauseous in these rooms, which may be caused by whatever leak from the vents.
+We can't technically tell what's in all of the pipes / ducts, but we can guess that the pipes contain water, sewage, tar, and almond milk, since that's what fills the flooded rooms. Some have reported becoming nauseous in these rooms, which may be caused by whatever leak through broken vents.
 
-You can enter this level by stairs / elevators, but you can only exit through ladders (or the stairs you entered from). As soon as you see ladders, you need to run to them and go up them as soon as possible to minimize the chance of encounters with entities or the buildup of heat. At the top of the ladder, you can open a service hatch that leads to level 2. No one has reported re-entering level 3 from these ladders, but that's probably due to no one wanting to re-enter level 3 in general and not due to anything happening to the people that do try to do so. 
+You can enter this level by stairs / elevators, but you can only exit through ladders (or the stairs you entered from). At the top of the ladder, you can open a service hatch that leads to level 2. No one has reported re-entering level 3 from these ladders. 
 
 <br />
 <br />
@@ -92,9 +92,9 @@ You can enter this level by stairs / elevators, but you can only exit through la
 
 ## Level 4
 
-Not many people have been to this level, so we don't have much information about it. This level is entirely filled with tightly compacted pipes, wires, and ducts that are nearly impossible to squeeze between. Some of the pipes are burning hot, and every person that reports entering this level also reports getting burned.
+Not many people have been to this level, so we don't have much information about it. This level is entirely filled with tightly compacted pipes, wires, and ducts that are nearly impossible to squeeze between. There doesn't seem to be any floor, and no one knows how deep this level goes. Some of the pipes are burning hot, and every person that reports entering this level also reports getting burned.
 
-The only confirmed way of entering this level is through noclipping. People have reported seeing entrances to this level through holes in the ground in level 3, and you probably could enter that way, but no one's every reported doing so. People have exited through these holes, but no one's ever entered.
+The only confirmed way of entering this level is by noclipping. People have reported seeing entrances to this level through holes in the ground in level 3, but people have only reported exiting through these holes.
 
 <br />
 <br />
@@ -118,12 +118,12 @@ These are events that should be possible, though no one has ever reported on it 
 - Re-entering the Backrooms after exiting through stairs
 - Re-entering level 3 by going back down the ladder
 - Entering a special level 2 room
-- Level 1 wallpaper completely disappearing gone after time
+- Level 1 or 2 wallpaper completely disappearing gone after time
 - Noclipping up a level / out of the Backrooms
 - Entering level 4 without noclipping
 	- It should absolutely be possible to enter level 4 through a hole in the ground in level 3, but no one's every reported doing this. This is one of the few unreported events that we don't suggest people to not try.
 - Finding entities on level 4
-	- Not many people have been to level 4 (and come back), but those who did have never reported seeing any entities. It is unclear whether this is because there are no entities in level 4 or if it's because no one has ever survived an entity on level 4.
+	- Not many people have been to level 4, but those who did have never reported seeing any entities. It is unclear whether this is because there are no entities in level 4 or if it's because no one has ever survived an entity on level 4.
 - Falling unconscious
 	- People have reported being dizzy, and people have reported almost falling unconscious, but no one has actually fallen unconscious and reported on it.
 - Death
@@ -146,6 +146,8 @@ These are events that should be possible, though no one has ever reported on it 
 - Bathrooms
 - Meeting / Conference Rooms
 - Storage / Cleaning Rooms
+- Office Kitchens
+- office Rooms with chairs and desks
 
 <br />
 <br />
@@ -157,8 +159,11 @@ These are events that should be possible, though no one has ever reported on it 
 
 <br />
 
-- Chairs, Tables, and Desks
+- Chairs, Tables
+- Desks and Office Chairs
+- Couches
 - Almond Milk Bottles
+- Flashlights
 
 <br />
 <br />
@@ -204,6 +209,15 @@ These are events that should be possible, though no one has ever reported on it 
 
 <br />
 
+### R 1.3.2 01/26/22
+
+- Added Office Kitchens and Office Rooms to the list of level 1 and 2 rooms
+- Added Flashlights, Office Chairs, and Couches to the list of stray level 1 and 2 objects
+- Added description of no floor and unknown depth to level 4
+- Reworded many of the details (especially in level 3 and 4)
+
+<br />
+
 ### R 1.3.1 01/14/22
 
 - Added list of stray level 1 and 2 objects
@@ -213,8 +227,8 @@ These are events that should be possible, though no one has ever reported on it 
 
 ### R 1.3.0 01/13/22
 
-- We now acknoledge that meeting / conference rooms and storage / cleaning rooms do appear in levels 1 and 2
-- We now acknoledge that many objects (such as chairs and almond milk bottles) do appear in levels 1, 2, and 3
+- We now acknowledge that meeting / conference rooms and storage / cleaning rooms do appear in levels 1 and 2
+- We now acknowledge that many objects (such as chairs and almond milk bottles) do appear in levels 1, 2, and 3
 - Added list of special level 1 and 2 rooms
 - Added taking photos and videos to the list of unreported events
 - Reworded many of the details (especially in the basics and level 1)
