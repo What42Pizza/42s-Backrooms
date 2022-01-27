@@ -147,7 +147,7 @@ These are events that should be possible, though no one has ever reported on it 
 - Meeting / Conference Rooms
 - Storage / Cleaning Rooms
 - Office Kitchens
-- office Rooms with chairs and desks
+- Office Rooms with chairs and desks
 
 <br />
 <br />
