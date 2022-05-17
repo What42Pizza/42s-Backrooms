@@ -6,7 +6,7 @@
 
 <br />
 
-#### NOTE: Everything below this paragraph is fiction. This was written just for fun and is only intended to promote thought.
+### Also, this repository only contains an old version of the roblox game I'm making for this.
 
 <br />
 
@@ -20,6 +20,10 @@ Last Updated 01/26/22
 <br />
 <br />
 <br />
+<br />
+
+#### NOTE: Everything below this paragraph is fiction. This was written just for fun and is only intended to promote thought.
+
 <br />
 
 ## Basics
